@@ -1,4 +1,4 @@
-### <div align="center">Hi, my name is Gašper, a enthusiastic comptuer science student and a full-stack web developer, currently studying at FERI and working at Norik Systems d.o.o.</div>  
+### <div align="center">Hi, my name is Gašper, a enthusiastic computer science student and a full-stack web developer, currently studying at FERI and working at Norik Systems d.o.o.</div>  
   
 
 - 🔭 I’m currently working with React, Angular and NestJS  
