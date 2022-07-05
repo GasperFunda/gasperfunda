@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with React, Angular and NestJS  
   
 
-- 🌱 I’m currently wanting to learn Svelte  
+- 🌱 I’m currently learning Svelte
   
 
 - 🏐 I love playing sports, going to the gym, listening to music, hanging out with friends and playing video games  
