@@ -92,14 +92,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qxok898f70p7yfkgzlzghmmfy&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gasperfunda&&style=flat-square" align="center" />
 </div>  
