@@ -1,4 +1,4 @@
-### <div align="center">Hi, my name is Gašper, an enthusiastic computer science student and a full-stack web developer, currently studying at FERI and working at Inova IT</div>  
+### <div align="center">Hi, my name is Gašper, an enthusiastic masters degree student and a full-stack web developer, currently studying at FERI and working at Inova IT</div>  
   
 
 - 🔭 I’m currently working with Remix and NestJS
