@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with React, Fastify and Prisma
   
 
-- 🌱 I’m currently learning writing my masters thesis
+- 🌱 I’m currently writing my masters thesis
   
 
 - 🏐 I love playing sports, going to the gym, listening to music, hanging out with friends and playing video games  
