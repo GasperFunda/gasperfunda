@@ -1,10 +1,10 @@
 ### <div align="center">Hi, my name is Gašper, an enthusiastic masters degree student and a full-stack web developer, currently studying at FERI and working at Inova IT</div>  
   
 
-- 🔭 I’m currently working with Remix and NestJS
+- 🔭 I’m currently working with React, Fastify and Prisma
   
 
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning writing my masters thesis
   
 
 - 🏐 I love playing sports, going to the gym, listening to music, hanging out with friends and playing video games  
